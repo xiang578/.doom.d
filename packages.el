@@ -5,3 +5,9 @@
 ;; (package! some-package)
 ;; (package! another-package :recipe (:host github :repo "username/repo"))
 ;; (package! builtin-package :disable t)
+
+;; org-mode
+(package! org-pomodoro)
+(package! org-super-agenda)
+
+(package! pinyin-search)
