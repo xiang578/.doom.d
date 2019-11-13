@@ -1,6 +1,6 @@
 ;;; ~/.doom.d/+org.el -*- lexical-binding: t; -*-
 
-(setq +todo-file "~/zk/org/plan.org"
+(setq +todo-file "~/zk/org/review.org"
       org-agenda-files '("~/zk/org/"))
 
 ;;warp line
