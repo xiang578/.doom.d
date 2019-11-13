@@ -19,6 +19,10 @@
           '(left . 50)
           '(top . 0))
 
+(load! "keyfreq")
+(keyfreq-mode 1)
+(keyfreq-autosave-mode 1)
+
 ;; * UI
 (setq browse-url-browser-function 'xwidget-webkit-browse-url
       ;display-line-numbers-type nil
