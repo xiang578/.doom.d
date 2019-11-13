@@ -10,6 +10,9 @@
 ;(add-hook 'window-setup-hook #'toggle-frame-maximized)
 ;(add-hook 'window-setup-hook #'toggle-frame-fullscreen)
 
+(setq user-full-name "Ryen Xiang"
+      user-mail-address "ryenxx@gmail.com")
+
 (pushnew! initial-frame-alist
           '(width . 200)
           '(height . 60)
