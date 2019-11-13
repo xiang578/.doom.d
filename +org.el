@@ -1,7 +1,7 @@
 ;;; ~/.doom.d/+org.el -*- lexical-binding: t; -*-
 
-(setq +todo-file "/Users/didi/Documents/我的坚果云/zk/org/plan.org"
-      org-agenda-files '("/Users/didi/Documents/我的坚果云/zk/org/"))
+(setq +todo-file "~/zk/org/plan.org"
+      org-agenda-files '("~/zk/org/"))
 
 ;;warp line
 (setq truncate-lines nil)
