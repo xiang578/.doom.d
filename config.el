@@ -22,6 +22,7 @@
 (load! "keyfreq")
 (keyfreq-mode 1)
 (keyfreq-autosave-mode 1)
+(setq doom-leader-alt-key "M-m")
 
 ;; * UI
 (setq browse-url-browser-function 'xwidget-webkit-browse-url
